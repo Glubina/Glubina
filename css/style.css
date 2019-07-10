@@ -14,3 +14,12 @@
 h2 {
     text-align: center;
 }
+
+.address img {
+    width: 5vh;
+}
+
+.phone_address {
+    display: flex;
+    justify-content: space-around;
+}
