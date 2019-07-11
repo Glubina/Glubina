@@ -23,3 +23,41 @@ h2 {
     display: flex;
     justify-content: space-around;
 }
+
+.header {
+    background-image: url(../img/header.png);
+    height: 70vh;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.2em;
+}
+
+.header h1 {
+    font-size: 3.5rem;
+    font-weight: bold;
+    line-height: 2;
+    color: #3F51B5;
+    text-shadow: red 1px 1px 0, red -1px -1px 0, red -1px 1px 0, red 1px -1px 0;
+}
+
+.header h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    line-height: 2;
+    color: #3F51B5;
+    text-shadow: red 1px 1px 0, red -1px -1px 0, red -1px 1px 0, red 1px -1px 0;
+}
+
+.header a {
+    font-size: 1.5rem;
+    font-weight: bold;
+    line-height: 2;
+    color: #3F51B5;
+    text-shadow: red 1px 1px 0, red -1px -1px 0, red -1px 1px 0, red 1px -1px 0;
+}
