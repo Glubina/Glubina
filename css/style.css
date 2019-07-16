@@ -43,7 +43,7 @@ h2 {
 .header h1 {
     font-size: 3.5rem;
     font-weight: bold;
-    line-height: 2;
+    line-height: 1.5;
     color: #3F51B5;
     text-shadow: red 1px 1px 0, red -1px -1px 0, red -1px 1px 0, red 1px -1px 0;
 }
